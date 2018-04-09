@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "496177862303",
+    "firebase_url": "https://finalchatapp-50184.firebaseio.com",
+    "project_id": "finalchatapp-50184",
+    "storage_bucket": "finalchatapp-50184.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496177862303:android:37af811aa3771ea6",
+        "android_client_info": {
+          "package_name": "com.example.mayank.finalchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496177862303-mgmhhdag7c5neq0i70e097fn567vdnln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mayank.finalchatapp",
+            "certificate_hash": "680c2f8fc589a6f3b1c17f6e94ea91f57cab6b5c"
+          }
+        },
+        {
+          "client_id": "496177862303-970kvbofao1p3ol9ovol51b6m00vutma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsbnAFi7E122_hdP6K0guFI3B0UVHnkOE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496177862303-970kvbofao1p3ol9ovol51b6m00vutma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
